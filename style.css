@@ -1,0 +1,21 @@
+.page-footer{
+    background-color: #1c2a48 !important
+}
+.footer-copyright{
+    color: gray;
+}
+.footer-copyright a{
+    color: white;
+    text-decoration: none;
+}
+i{
+    color: gainsboro;
+    font-size: 40px;
+    padding: 10px;
+}
+h3{
+   color: gainsboro; 
+}
+.footer-p{
+    color: gainsboro;
+}
